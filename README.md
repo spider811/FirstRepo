@@ -6,3 +6,8 @@ blue
 green
 yellow
 white
+---------------------
+papaya
+grapes
+mango
+watermelon
